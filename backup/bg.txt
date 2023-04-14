@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#feh --no-fehbg --bg-scale "/home/kweez/.config/i3/wallpaper.jpg"
+feh --no-fehbg --bg-scale "/home/kweez/Pictures/anime/butterfly.jpg"
